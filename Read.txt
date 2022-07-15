@@ -1,0 +1,15 @@
+# se não tiver instalado o yarn
+$ npm install --global yarn
+# criando o arquivo package.json
+$ yarn init -y / npm init -y
+# instalando a biblioteca do react
+$ yarn add react / npm add react
+$ yarn add react-dom
+#instalando o babel
+$ yarn add @babel/core @babel/cli @babel/preset-env -D
+$ yarn add @babel/preset-react -D
+#webpack
+$ yarn add webpack webpack-cli -D
+$ yarn add babel-loader -D
+$ yarn add html-webpack-plugin -D
+$ yarn add webpack-dev-server -D
